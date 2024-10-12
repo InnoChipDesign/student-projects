@@ -1,2 +1,2 @@
-# student-projects
-Repository with a list of FPGA student projects completed at Innopolis University during various courses
+# Student Projects
+Repository with a list of FPGA projects completed by students at Innopolis University during various courses
